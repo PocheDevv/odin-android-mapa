@@ -35,7 +35,7 @@ ubicación y la visualización de datos geográficos en una app nativa.
 ## Instalación y ejecución
 
 ```bash
-git clone https://github.com/PocheDevv/odin-mapa.git
+git clone https://github.com/PocheDevv/odin-android-mapa.git
 ```
 
 1. Abre el proyecto en Android Studio.
